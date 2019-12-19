@@ -1,0 +1,1 @@
+# generator-neverendingqs-js
